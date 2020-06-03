@@ -1,0 +1,82 @@
+.heart-science
+{
+    padding-top:60px;
+    padding-bottom:75px;
+}
+
+.heart-science p
+{
+    color:#767676;
+}
+
+.heart-science p:first-child
+{
+    font-weight:bold;
+    font-size:18px;
+}
+
+.heart-science p:nth-of-type(2)
+{
+    margin-bottom:25px;
+    color:#666;
+}
+
+.heart-science h2
+{
+    margin-bottom:30px;
+    font-weight:bold;
+}
+
+.heart-science h2 span
+{
+    color:#5c6895;
+}
+
+.heart-science .desc-box
+{
+    padding-right:15px;
+    margin-bottom:30px;
+}
+
+.heart-science .desc-box .span-box
+{
+    margin-bottom:30px;
+}
+
+.heart-science .desc-box .item-box
+{
+    margin-bottom:13px;
+}
+
+.heart-science .desc-box .item-box i
+{
+    margin-right:15px;
+    color:#5c6895;
+    font-size:12px;
+}
+
+.heart-science .desc-box a
+{
+    text-decoration:none;
+    color:#5c6895;
+    font-weight:bold;
+}
+
+.heart-science .desc-box a:hover
+{
+    color:#000;
+}
+
+.heart-science .desc-box a i
+{
+    font-size:13px;
+    margin-left:8px;
+}
+
+@media (max-width:400px)
+{
+.heart-science .col-lg-6 .vedio
+{
+   height:210px !important;
+}
+}

@@ -1,0 +1,28 @@
+
+.Info
+{
+    padding:60px 0 30px;
+}
+
+.Info .section
+{
+    margin-bottom:15px;
+}
+
+.Info .section .col-8, .Info .section .col-9
+ { padding-left:0 }
+
+.Info .section i
+{
+    font-size:40px;
+    margin-top:15px;
+    color: darkslateblue;
+    
+}
+
+.Info .col-md-6:last-of-type .section i
+{
+    font-size:48px;
+}
+
+.Info .section p {margin-top:10px; color:#888}

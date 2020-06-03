@@ -1,0 +1,170 @@
+
+.choose-us
+{
+    min-height:100px;
+    padding-top:50px;
+    background-color:#f6f7f5;
+    overflow:hidden;
+}
+
+@media (min-width:1312px)
+{
+    .choose-us {
+    padding-right:180px;
+    }
+}
+
+.choose-us .why-text
+{
+    float:right;
+    width:50%;
+    padding-top:55px;
+    padding-left:25px;
+}
+
+.choose-us .why-text span
+{
+    color:#5c6895;
+    font-weight:bold;
+}
+
+.choose-us .why-text h2
+{
+    margin-top:12px;
+    margin-bottom:50px;
+}
+
+.choose-us .why-image
+{
+    float:left;
+    width:50%;
+}
+
+.choose-us .why-image img
+{
+    width:100%;
+    height:600px;
+}
+
+@media (max-width:855px)
+{
+    .choose-us
+    {
+      padding-right:10px;
+    }
+
+    .choose-us .why-text
+{
+    float:left;
+    width:100%;
+    padding-left:10px;
+   
+}
+
+.choose-us .why-image
+{
+    float:right;
+    width:100%;
+}
+
+.choose-us .why-image img
+{
+    width:100%;
+    height:250px;
+}
+
+}
+
+.choose-us .why-text .div-box
+{
+    margin-bottom:22px;
+    overflow:hidden;
+}
+
+.choose-us .why-text .div-box .left
+{
+    float:left;
+    width:15%;
+}
+
+.choose-us .why-text .div-box .left span
+{
+   display:block;
+   width:80px;
+   height:80px;
+   text-align:center;
+   line-height:76px;
+   background-color:#fff;
+   font-size:23px;
+   font-weight:bolder;
+   border-radius:50%;
+   color:#5c6895;
+   transition:all .3s;
+   cursor: default;
+   box-shadow:.5px .5px 2px #999;
+}
+
+.choose-us .why-text .div-box:hover .left span
+{
+    background-color:#5c6895;
+    color:#fff;
+}
+
+
+.choose-us .why-text .div-box .right
+{
+    float:right;
+    width:85%;
+}
+
+.choose-us .why-text .div-box .right p
+{
+    color:#777;
+    margin-top:10px;
+}
+
+@media (max-width:621px)
+{
+    .choose-us .why-text .div-box .left
+{
+    float:left;
+    width:25%;
+}
+
+.choose-us .why-text .div-box .right
+{
+    float:right;
+    width:75%;
+}
+
+}
+
+@media (min-width:855px) and (max-width:1240px)
+{
+    .choose-us .why-text .div-box .left
+    {
+        width:25%;
+    }
+
+    .choose-us .why-text .div-box .right
+   {
+      width:75%;
+   }
+
+}
+
+@media (max-width:393.98px)
+{
+    .choose-us .why-text .div-box .left
+{
+    width:35%;
+}
+
+.choose-us .why-text .div-box .right
+{
+    width:65%;
+    padding-left:5px;
+}
+
+}
+

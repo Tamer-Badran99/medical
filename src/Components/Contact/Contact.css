@@ -1,0 +1,121 @@
+
+.contact
+{
+    padding-top:50px;
+    background-color:#eee;
+    overflow: hidden;
+}
+
+
+.contact .left, .contact .right
+{
+   float:left;
+   width:100%;
+}
+
+.contact .left
+{
+    padding:20px;
+    margin-bottom:12.5px;
+}
+
+.contact .right img
+{
+    max-width:100%;
+}
+
+@media (min-width:855px)
+{
+    .contact .left
+    {
+       float: right;
+       width:50%;
+       padding-top:90px;
+    }
+
+    .contact .right
+    {
+         float: left;
+         width:50%;
+    }
+    .contact .right img
+    {
+        height:100%;
+    }
+}
+
+.contact .left h2 span
+{
+    color:#5c6895;
+}
+
+.contact .left p
+{
+    max-width:550px;
+    margin-top:25px;
+    margin-bottom:30px;
+}
+
+.contact .left form
+{
+    max-width:600px;
+}
+
+.contact .left form input, .contact .left form textarea
+{
+    margin-bottom:13px;
+    border:1px solid #ccc;
+    border-radius:4px;
+    padding:8px;
+}
+
+.contact .left form input:nth-of-type(2), .contact .left form input:nth-of-type(3)
+{
+    width:48%;
+}
+
+.contact .left form input:nth-of-type(2)
+{
+    margin-right:4%;
+}
+
+.contact .left form textarea
+{
+    width:100%;
+    height:130px;
+}
+
+.contact .left form input[type="submit"]
+{
+    padding:13px 16px;
+    background-color:#5c6895;
+    color:#fff;
+    outline:none;
+}
+
+@media (max-width:483px)
+{
+    .contact .left form input:nth-of-type(2), .contact .left form input:nth-of-type(3)
+{
+    width:100%;
+}
+
+.contact .left form input:nth-of-type(2)
+{
+    margin-right:0;
+}
+
+.contact .left form input[type="submit"]
+{
+   padding:4px 7px;
+   display:block;
+   margin:auto;
+}
+
+}
+
+
+
+
+
+

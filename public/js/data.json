@@ -1,0 +1,172 @@
+
+{
+  
+  "info": [
+    {
+        "id":0,
+        "icon":"fas fa-first-aid",
+        "header":"24 Hour Emergency",
+        "text":"Open round the clock for convenience, quick and easy access"
+    },
+
+    {
+        "id":1,
+        "icon":"fas fa-vials",
+        "header":"Complete Lab Services",
+        "text":"Cost-efficient, comprehensive and clinical laboratory services"
+    },
+    
+    {
+        "id":2,
+        "icon":"fas fa-user-md",
+        "header":"Medical Professionals",
+        "text":"Qualified and certified physicians for quality medical care"
+    }
+  ],
+
+  "heart": [
+      {
+        "id":0,
+        "span":"Equipped for all stages of care, from prevention to rehabilitation"
+      },
+
+      {
+        "id":1,
+        "span":"Quality assessment program helps ensure smooth, effective operation"
+      },
+
+      {
+        "id":2,
+        "span":"Prepared to treat a high volume of trauma patients 24/7"
+      }
+
+  ],
+
+  "chooseUs": [
+
+    {
+      "id":0,
+      "span":"01.",
+      "header":"Patient-Centred",
+      "text":"While our team brings important experience and knowledge, we know that each patient is the expert in their own life."
+    },
+
+    {
+      "id":1,
+      "span":"02.",
+      "header":"Comprehensive",
+      "text":"We offer comprehensive health care focusing on the whole person, at all ages and stages of life."
+    },
+
+    {
+      "id":2,
+      "span":"03.",
+      "header":"Patient-Centred",
+      "text":"We have flexible hours and are open on certain evenings and during the weekend, to accommodate your schedule."
+    }
+
+  ],
+
+  "services": [
+    
+    {
+      "id":0,
+      "icon":"fas fa-user-md fa-3x",
+      "header":"Primary Care Physicia",
+      "text":"MedAll Centre provides the following healthcare services:"
+    },
+
+    {
+      "id":1,
+      "icon":"fas fa-virus fa-3x",
+      "header":"Allergy and Immunology",
+      "text":"You should feel your best no matter the season."
+    },
+
+    {
+      "id":2,
+      "icon":"fas fa-spa fa-3x",
+      "header":"Holistic Wellness",
+      "text":"A lifestyle of holistic wellness rewards you with enhanced health"
+    }
+
+  ],
+
+  "xse":[
+
+    {
+       "id":0,
+       "span":["Complete Family Health Care","Allergy and Immunology Conditions","Weight loss"]
+    },
+
+    {
+      "id":1,
+      "span":["EKG","Testing for Allergy and Immunology","Therapeutic Medical Massage"]
+    },
+
+    {
+      "id":2,
+      "span":["X-Ray","Allergy and Immunology Treatments","Holistic Skin Care"]
+    },
+
+    {
+      "id":3,
+      "span":["Ultrasound","Asthma Care","K-laser Pain Management"]
+    },
+
+    {
+      "id":4,
+      "span":["Acute and Chronic Care","Dermatology","Ayurveda &amp; Detoxification"]
+    },
+
+    {
+      "id":5,
+      "span":["Well Woman’s Exam","Pediatric Allergy and Immunology","Hormone Replacement Therapy"]
+    }
+
+  ],
+
+  "ContactLeft": [
+
+    {
+      "id":0,
+      "icon":"fas fa-map-marker-alt",
+      "span":"1560 Holden Street San Diego, CA 92139"
+    },
+
+    {
+      "id":1,
+      "icon":"fas fa-phone-alt",
+      "span":"1-800-267-0000"
+    },
+
+    {
+      "id":2,
+      "icon":"fas fa-envelope",
+      "span":"info@medera.net"
+    }
+
+  ],
+
+  "ContactRight": [
+
+    {
+      "id":0,
+      "icon":"fab fa-facebook"
+    },
+
+    {
+      "id":1,
+      "icon":"fab fa-snapchat"
+    },
+
+    {
+      "id":2,
+      "icon":"fab fa-google-plus"
+    }
+
+  ]
+
+
+
+}
